@@ -3,6 +3,7 @@ package dad;
 import javafx.application.Application;
 import javafx.event.ActionEvent;
 import javafx.geometry.Pos;
+
 import javafx.scene.Scene;
 import javafx.scene.control.Alert;
 import javafx.scene.control.Alert.AlertType;
@@ -13,7 +14,7 @@ import javafx.scene.layout.VBox;
 import javafx.stage.Stage;
 
 public class AdivinApp extends Application {
-
+//vamooooooooooooos eres dios 
 	private TextField numeroText;
 	private Label comprobarLabel;
 	private int numero, cont = 0;
